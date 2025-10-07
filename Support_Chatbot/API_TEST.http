@@ -1,0 +1,7 @@
+POST /sendMessageToAzure HTTP/1.1
+Host: localhost:5000
+Content-Type: application/json
+
+{
+    "messageRequest": "How do i change my password"
+}
