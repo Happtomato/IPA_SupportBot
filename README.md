@@ -125,11 +125,3 @@ This PDF includes:
 📬 Contact
 
 For questions regarding this project, please refer to the documentation PDF or reach out to the project authors.
-
----
-
-🔧 **Nächste Schritte, wenn du willst:**  
-- Ich kann dir die Datei direkt als `README.md` exportieren.  
-- Oder helfen, eine PDF-Version für das Projektportfolio zu erzeugen.  
-
-Sag einfach Bescheid – und Glückwunsch zum fertigen Projekt! 💪
